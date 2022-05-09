@@ -21,9 +21,7 @@ XXXXXXX
 
 Summary
 
-![OrgDS](/Images/original_distircit_summary%20.png)
-
-
+![Summary](/analysis/Summary_DataFra%2Ce.png)
 
 ![NewDS](/Images/new_distircit_summary%20.png)
 
