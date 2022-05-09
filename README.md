@@ -23,7 +23,9 @@ Summary
 
 ![Summary](/analysis/Summary_DataFra%2Ce.png)
 
-![NewDS](/Images/new_distircit_summary%20.png)
+Total Fare Trend
+
+![Graph](/analysis/total_Fare_Graph.png)
 
 * School summary:
   - 461 students are not beeing taken in count for math and reading grades
